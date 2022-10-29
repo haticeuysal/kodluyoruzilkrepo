@@ -9,4 +9,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://github.com/haticeuysal/kodluyoruzilkrepo/blob/503f2f2fe5b2c87cdbef6a625e321dc07c8ef896/LICENSE)
 
-[projenin resmi.] (https://github.com/haticeuysal/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.png)
+[projenin resmi](https://github.com/haticeuysal/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.png)
